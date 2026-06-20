@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Musab Shaikh 👋
 
-<!--
-**MUSAB-SHAIKH-6428/MUSAB-SHAIKH-6428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Engineer pursuing B.E. Computer Engineering at Thadomal Shahani Engineering College.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- PostgreSQL
+- Pandas
+- Git
+- Docker
+- ETL Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+### Production Grade ETL Pipeline
+Built a Dockerized ETL pipeline using Python and PostgreSQL with logging, staging tables, and automated data loading.
+
+## Data Analytics Projects
+- Netflix EDA
+- Airlines Data Analysis
+- HR Analytics
+- Electric Vehicle Analysis
+- Titanic EDA
+
+## Currently Learning
+- Advanced SQL
+- Data Warehousing
+- Apache Spark
+- Apache Airflow
+
+## Connect
+Mumbai, India
