@@ -30,7 +30,3 @@ Built a Dockerized ETL pipeline using Python and PostgreSQL with logging, stagin
 
 ## Connect
 Mumbai, India
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musab-shaikh-6428&show_icons=true)
