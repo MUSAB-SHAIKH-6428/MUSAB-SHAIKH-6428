@@ -8,7 +8,6 @@ Aspiring Data Engineer pursuing B.E. Computer Engineering at Thadomal Shahani En
 - PostgreSQL
 - Pandas
 - Git
-- Docker
 - ETL Development
 
 ## Featured Project
@@ -26,7 +25,6 @@ Built a Dockerized ETL pipeline using Python and PostgreSQL with logging, stagin
 - Advanced SQL
 - Data Warehousing
 - Apache Spark
-- Apache Airflow
 
 ## Connect
 Mumbai, India
