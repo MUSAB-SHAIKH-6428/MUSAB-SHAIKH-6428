@@ -4,6 +4,10 @@ Aspiring Data Engineer pursuing B.E. Computer Engineering at Thadomal Shahani En
 
 ## Skills
 - Python
+- Advanced SQL
+- Dimensional and Data Modelling
+- Data Warehousing
+- Apache Spark
 - SQL
 - PostgreSQL
 - Pandas
@@ -20,11 +24,6 @@ Built a Dockerized ETL pipeline using Python and PostgreSQL with logging, stagin
 - HR Analytics
 - Electric Vehicle Analysis
 - Titanic EDA
-
-## Currently Learning
-- Advanced SQL
-- Data Warehousing
-- Apache Spark
 
 ## Connect
 Mumbai, India
