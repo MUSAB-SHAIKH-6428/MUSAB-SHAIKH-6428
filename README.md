@@ -8,6 +8,7 @@ Aspiring Data Engineer pursuing B.E. Computer Engineering at Thadomal Shahani En
 - Dimensional and Data Modelling
 - Data Warehousing
 - Apache Spark
+- Databricks
 - SQL
 - PostgreSQL
 - Pandas
