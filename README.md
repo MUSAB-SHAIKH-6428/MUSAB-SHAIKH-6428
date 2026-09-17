@@ -29,19 +29,19 @@ Built a Dockerized ETL pipeline using Python and PostgreSQL with logging, stagin
 
 ## Currently Learning 
 ### AWS Services
--AWS EC2 (Elastic Compute Cloud): Scalable compute capacity/virtual servers in the cloud.
+- AWS EC2 (Elastic Compute Cloud): Scalable compute capacity/virtual servers in the cloud.
 
--AWS IAM (Identity and Access Management): Access management, user permissions, roles, and security keys.
+- AWS IAM (Identity and Access Management): Access management, user permissions, roles, and security keys.
 
--AWS S3 (Simple Storage Service): Object and blob storage for data lakes.
+- AWS S3 (Simple Storage Service): Object and blob storage for data lakes.
 
--AWS Lambda: Serverless compute functions triggered by events.
+- AWS Lambda: Serverless compute functions triggered by events.
 
--AWS Glue & AWS Crawlers: Serverless data integration/ETL service and metadata crawlers for data pipelines.
+- AWS Glue & AWS Crawlers: Serverless data integration/ETL service and metadata crawlers for data pipelines.
 
--AWS Athena: Serverless interactive query service using standard SQL on S3 data.
+- AWS Athena: Serverless interactive query service using standard SQL on S3 data.
 
--AWS SDK: Software Development Kit used to interact with AWS services (specifically S3) programmatically.
+- AWS SDK: Software Development Kit used to interact with AWS services (specifically S3) programmatically.
 
 ## Connect
 Mumbai, India
