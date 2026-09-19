@@ -4,14 +4,12 @@ Aspiring Data Engineer pursuing B.E. Computer Engineering at Thadomal Shahani En
 
 ## Skills
 - Python
-- Advanced SQL
+- Advanced SQL/POSTGRESQL
 - Dimensional Modelling
 - Data Modelling
 - Data Warehousing
 - Apache Spark
 - Databricks
-- SQL
-- PostgreSQL
 - Pandas
 - Git
 - ETL Development
