@@ -27,7 +27,9 @@ Built a Dockerized ETL pipeline using Python and PostgreSQL with logging, stagin
 - Titanic EDA
 
 ## Currently Learning 
-- LangChain & LangGraph 
+
+### LangChain & LangGraph 
+
 ### AWS Services
 - AWS EC2 (Elastic Compute Cloud): Scalable compute capacity/virtual servers in the cloud.
 
@@ -44,6 +46,8 @@ Built a Dockerized ETL pipeline using Python and PostgreSQL with logging, stagin
 - AWS SDK: Software Development Kit used to interact with AWS services (specifically S3) programmatically.
 
 ### Apache Airflow
+
+### Rag Pipelines
 
 ## LEETCODE (on going...)
 
