@@ -12,8 +12,8 @@ Aspiring Data Engineer pursuing B.E. Computer Engineering at Thadomal Shahani En
 - Databricks
 - Pandas
 - Git
-- ETL Development
-- ELT Development
+- ETL/ELT Development
+-  SupaBase
 
 ## Featured Project
 ### Production Grade ETL Pipeline
