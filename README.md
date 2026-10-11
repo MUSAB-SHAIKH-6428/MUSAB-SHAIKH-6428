@@ -19,6 +19,8 @@ Aspiring Data Engineer pursuing B.E. Computer Engineering at Thadomal Shahani En
 ### Production Grade ETL Pipeline
 Built a Dockerized ETL pipeline using Python and PostgreSQL with logging, staging tables, and automated data loading.
 
+### Production Pipeline with Complete Analysis of Olist E-Commerce Company (Work In Progress)
+
 ## Data Analytics Projects
 - Netflix EDA
 - Airlines Data Analysis
