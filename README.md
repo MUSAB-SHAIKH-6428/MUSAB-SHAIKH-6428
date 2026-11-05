@@ -13,7 +13,9 @@ Aspiring Data Engineer pursuing B.E. Computer Engineering at Thadomal Shahani En
 - Pandas
 - Git
 - ETL/ELT Development
--  SupaBase
+- SupaBase
+- Rag Pipelines
+- LangChain & LangGraph 
 
 ## Featured Project
 ### Production Grade ETL Pipeline
@@ -28,9 +30,7 @@ Built a Dockerized ETL pipeline using Python and PostgreSQL with logging, stagin
 - Electric Vehicle Analysis
 - Titanic EDA
 
-## Currently Learning 
-
-### LangChain & LangGraph 
+## Currently Learning
 
 ### AWS Services
 - AWS EC2 (Elastic Compute Cloud): Scalable compute capacity/virtual servers in the cloud.
@@ -49,9 +49,7 @@ Built a Dockerized ETL pipeline using Python and PostgreSQL with logging, stagin
 
 ### Apache Airflow
 
-### Rag Pipelines
-
-## LEETCODE (on going...)
+## LEETCODE 
 
 ## Connect
 Mumbai, India
